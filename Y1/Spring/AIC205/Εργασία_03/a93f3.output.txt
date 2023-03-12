@@ -1,0 +1,46 @@
+Give your name: ALPHA
+Successful appointment for clinic 1
+Continue Y/N (Y=yes, N=No): y
+Give your name: BETA
+Successful appointment for clinic 4
+Continue Y/N (Y=yes, N=No): y
+Give your name: GAMA
+Successful appointment for clinic 4
+Continue Y/N (Y=yes, N=No): y
+Give your name: DELTA
+Successful appointment for clinic 3
+Continue Y/N (Y=yes, N=No): y
+Give your name: EPSILON
+Successful appointment for clinic 1
+Continue Y/N (Y=yes, N=No): y
+Give your name: ZETA
+You are in a waiting list
+Give your phone number: 1111
+Continue Y/N (Y=yes, N=No): y
+Give your name: ETA
+You are in a waiting list
+Give your phone number: 2222
+Continue Y/N (Y=yes, N=No): y
+Give your name: THETA
+Successful appointment for clinic 2
+Continue Y/N (Y=yes, N=No): n
+
+Appointments of clinic 1
+ALPHA
+EPSILON
+
+Appointments of clinic 2
+THETA
+
+Appointments of clinic 3
+DELTA
+
+Appointments of clinic 4
+BETA
+GAMA
+
+Appointments of clinic 5
+
+Waiting list:
+ZETA, 1, 1111 
+ETA, 1, 2222 
