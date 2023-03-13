@@ -1,3 +1,8 @@
 # applied-informatics
-works/exercises for University
+
+my assignments at UoM 
+
+Year 1: 2022-2023
+
+
 
