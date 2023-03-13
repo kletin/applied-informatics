@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Queue */
-#define QueueLimit (20+1)  //το όριο μεγέθους της ουράς
+#define QueueLimit (20+1)  //το όριο μεγέθους της ουράς + 1
 
 typedef int QueueElementType;   /* ο τύπος δεδομένων των στοιχείων της ουράς */
 

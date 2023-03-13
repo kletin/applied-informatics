@@ -4,8 +4,8 @@
 
 
 /* Queue */
-#define QueueLimit (2+1)             //το όριο μεγέθους της ουράς
-#define QueueLimit2 (20+1)           //το όριο μεγέθους της ουράς 2 
+#define QueueLimit (2+1)             //το όριο μεγέθους της ουράς + 1
+#define QueueLimit2 (20+1)           //το όριο μεγέθους της ουράς2 + 1 
 
 #define NUM_CLINICS 5
 
