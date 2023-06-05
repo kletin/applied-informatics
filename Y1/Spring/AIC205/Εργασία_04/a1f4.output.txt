@@ -1,0 +1,44 @@
+./a1f4
+Question C
+Storage pool
+1o STOIXEIO LISTAS=-1, 1H FREE POSITION=0
+H STORAGE POOL EXEI TA EJHS STOIXEIA
+(0: -1->1) (1: -1->2) (2: -1->3) (3: -1->4) (4: -1->5) (5: -1->6) (6: -1->7) (7: -1->8) (8: -1->9) (9: -1->-1)
+Question D
+Linked list
+Empty List ...
+Question E
+Give a number: 20
+
+Continue Y / N:y
+Give a number: 3
+
+Continue Y / N:y
+Give a number: 10
+
+Continue Y / N:y
+Give a number: 12
+
+Continue Y / N:y
+Give a number: 4
+
+Continue Y / N:n
+Question F
+Storage pool
+1o STOIXEIO LISTAS=1, 1H FREE POSITION=5
+H STORAGE POOL EXEI TA EJHS STOIXEIA
+(0: 20->-1) (1: 3->4) (2: 10->3) (3: 12->0) (4: 4->2) (5: -1->6) (6: -1->7) (7: -1->8) (8: -1->9) (9: -1->-1)
+Question G
+Linked list
+(1: 3->4) (4: 4->2) (2: 10->3) (3: 12->0) (0: 20->-1)
+Question H
+Νot an Empty List
+Question I
+Not a full list
+Question J
+Search for a number
+Give a number 4
+The number is in the list and its predecessor is in position 1
+Give a number 23
+The number is not in the list
+

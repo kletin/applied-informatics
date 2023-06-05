@@ -1,0 +1,53 @@
+(a)
+Queue: 3 6 9 12 15 18 21 24 27 30
+Front=0 Read=0 Count=10
+(b)
+Give a number:5
+Give a multiple of 3
+Give a number:66
+Full Queue
+Queue: 3 6 9 12 15 18 21 24 27 30
+Front=0 Read=0 Count=10
+(c)
+Queue: 6 9 12 15 18 21 24 27 30
+Front=1 Read=0 Count=9
+Removed item=3
+(d)
+Give a number:66
+Queue: 6 9 12 15 18 21 24 27 30 66
+Front=1 Read=1 Count=10
+Give a number:33
+Full Queue
+Queue: 6 9 12 15 18 21 24 27 30 66
+Front=1 Read=1 Count=10
+(e)
+Queue: 9 12 15 18 21 24 27 30 66
+Front=2 Read=1 Count=9
+Removed item=6
+Queue: 12 15 18 21 24 27 30 66
+Front=3 Read=1 Count=8
+Removed item=9
+Queue: 15 18 21 24 27 30 66
+Front=4 Read=1 Count=7
+Removed item=12
+Queue: 18 21 24 27 30 66
+Front=5 Read=1 Count=6
+Removed item=15
+Queue: 21 24 27 30 66
+Front=6 Read=1 Count=5
+Removed item=18
+Queue: 24 27 30 66
+Front=7 Read=1 Count=4
+Removed item=21
+Queue: 27 30 66
+Front=8 Read=1 Count=3
+Removed item=24
+Queue: 30 66
+Front=9 Read=1 Count=2
+Removed item=27
+Queue: 66
+Front=0 Read=1 Count=1
+Removed item=30
+Empty Queue
+Front=1 Read=1 Count=0
+Removed item=66

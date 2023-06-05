@@ -1,0 +1,13 @@
+ ./a13f4
+Printing the job of MAYA,text.csv
+Press any key to continue
+Printing the job of NIKOS,graph.xls
+Press any key to continue
+Printing the job of USER7,ask10.c
+Press any key to continue
+Printing the job of FORT10,ask13.txt
+Press any key to continue
+Printing the job of USER9,sxima.jpg
+Press any key to continue
+There are no jobs in the printing queue
+

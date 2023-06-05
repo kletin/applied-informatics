@@ -1,0 +1,28 @@
+❯ ./a36f5
+Enter a letter : H
+Enter a letter : K
+Enter a letter : A
+Enter a letter : N
+Enter a letter : O
+Enter a letter : H
+Enter a letter : D
+Enter a letter : R
+Size=8
+N  L  R
+R, O, H
+O, N, K
+H, A, D
+N, H,
+Heap array
+R O H N K A D H
+Enter a letter : H
+L=6,R=7
+A D
+Enter a letter : K
+L=-1,R=-1
+
+Enter a letter : N
+L=8,R=-1
+H
+Enter a letter : F
+Not found

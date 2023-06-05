@@ -1,0 +1,15 @@
+ ./a33f5
+Dose enan thetiko akeraio:4
+Dose enan thetiko akeraio:5
+Dose enan thetiko akeraio:6
+Dose enan thetiko akeraio:7
+Dose enan thetiko akeraio:8
+Dose enan thetiko akeraio:10
+Dose enan thetiko akeraio:23
+Dose enan thetiko akeraio:9
+Dose enan thetiko akeraio:-1
+H mikroteri timi toy DDA twn perittvn arithmwn einai:5
+H megalyteri timi toy DDA twn perittvn arithmwn einai:23
+H mikroteri timi toy DDA twn artiwn arithmwn einai:4
+H megalyteri timi toy DDA twn artiwn arithmwn einai:10
+

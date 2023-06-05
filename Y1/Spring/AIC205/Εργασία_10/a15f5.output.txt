@@ -1,0 +1,13 @@
+./a15f5
+Enter number of elements for the tree: 7
+Enter number: 20
+Enter number: 10
+Enter number: 12
+Enter number: 25
+Enter number: 22
+Enter number: 30
+Enter number: 40
+Elements of BST in increasing order
+10 12 20 22 25 30 40
+RightNodeCount = 4
+

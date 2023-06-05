@@ -1,0 +1,134 @@
+❯ ./a8f6
+Enter user's key: 2
+Enter user's name: ANDREOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 1
+
+Continue Y/N: y
+Enter user's key: 4
+Enter user's name: NINOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 2
+
+Continue Y/N: y
+Enter user's key: 7
+Enter user's name: APOSTOLOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor):
+2
+
+Continue Y/N: y
+Enter user's key: 12
+Enter user's name: KWSTAKIS
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 3
+
+Continue Y/N: y
+Enter user's key: 14
+Enter user's name: LEONIDOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 4
+
+Continue Y/N: y
+Enter user's key: 22
+Enter user's name: VASILEIOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 1
+
+Continue Y/N: y
+Enter user's key: 17
+Enter user's name: TOTHS
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 2
+
+Continue Y/N: n
+Enter user's key for deleting in the Hash: 22
+
+Continue Y/N: n
+Enter user's key for searching in the Hash: 14
+[14,LEONIDOY,visitor]
+
+Continue Y/N: y
+Enter user's key for searching in the Hash: 22
+There is no user with code 22
+
+Continue Y/N: n
+USERS:
+Synonyms, collision at position: 2
+0:[2,ANDREOY,student]
+3:[12,KWSTAKIS,teacher]
+Synonyms, collision at position: 4
+1:[4,NINOY,postgraduate student]
+4:[14,LEONIDOY,visitor]
+Synonyms, collision at position: 7
+2:[7,APOSTOLOY,postgraduate student]
+6:[17,TOTHS,postgraduate student]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+❯ ./a8f6
+Enter user's key: 2
+Enter user's name: ANTREOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 1
+
+Continue Y/N: y
+Enter user's key: 4
+Enter user's name: NINOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 2
+
+Continue Y/N: y
+Enter user's key: 7
+Enter user's name: APOSTOLOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 2
+
+Continue Y/N: y
+Enter user's key: 12
+Enter user's name: KWSTAKIS
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 3
+
+Continue Y/N: y
+Enter user's key: 14
+Enter user's name: LEONIDOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 4
+
+Continue Y/N: y
+Enter user's key: 22
+Enter user's name: VASILEIOY
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 1
+
+Continue Y/N: y
+Enter user's key: 17
+Enter user's name: TOTHS
+Enter user's position (1 = student, 2 = postgraduate student, 3 = teacher, 4 = visitor): 2
+
+Continue Y/N: n
+Enter user's key for deleting in the Hash: 22
+
+Continue Y/N: n
+Enter user's key for searching in the Hash: 14
+[14,LEONIDOY,(null)]
+
+Continue Y/N: y
+Enter user's key for searching in the Hash: 22
+There is no user with code 22
+
+Continue Y/N: n
+USERS:
+Synonyms, collision at position: 2
+0:[2, ANTREOY, student]
+3:[12, KWSTAKIS, teacher]
+Synonyms, collision at position: 4
+1:[4, NINOY, postgraduate student]
+4:[14, LEONIDOY, visitor]
+Synonyms, collision at position: 7
+2:[7, APOSTOLOY, postgraduate student]
+6:[17, TOTHS, postgraduate student]

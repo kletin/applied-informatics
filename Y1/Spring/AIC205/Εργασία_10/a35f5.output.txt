@@ -1,0 +1,16 @@
+./a35f5
+Enter number of elements for the tree: 8
+Enter number: 20
+Enter number: 15
+Enter number: 42
+Enter number: 39
+Enter number: 14
+Enter number: 56
+Enter number: 72
+Enter number: 19
+Elements of BST in increasing order
+14 15 19 20 39 42 56 72
+Give first element of BST:72
+Give second element of BST:39
+LCA node of 72 and 39 is node with element 42
+

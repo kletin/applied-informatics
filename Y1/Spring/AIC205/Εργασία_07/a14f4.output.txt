@@ -1,0 +1,7 @@
+./a14f4
+EISAGETE MIA PARASTASI: a+(x-y)(5+3){2+(x/6)}
+CORRECT
+❯ ./a14f4
+EISAGETE MIA PARASTASI: {a-(8+x)/[5+y}]
+WRONG
+

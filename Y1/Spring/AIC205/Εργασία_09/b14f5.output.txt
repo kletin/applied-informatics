@@ -1,0 +1,35 @@
+./b14f5
+Print teachers data
+dimitriou nikos, 6911111112, 1
+giannou maria, 6914441112, 23
+nikolaou marios, 6910001112, 15
+pappas giannis, 6911111222, 16
+satratzemi maya, 6933333332, 20
+totsika dimitra, 6911555111, 14
+
+Give teacher full name: georgiou eleni
+Give teacher phone number: 6977755588
+Give teacher code: 14
+
+Give teacher full name: stavrou nikos
+Give teacher phone number: 6922222777
+Give teacher code: 20
+
+Give teacher full name to search: nikolaou marios
+nikolaou marios, 6910001112, 15
+
+Give code to search: 14
+georgiou eleni, 6977755588, 14
+totsika dimitra, 6911555111, 14
+
+Give teacher full name to delete: pappas giannis
+
+Print teachers data
+dimitriou nikos, 6911111112, 1
+georgiou eleni, 6977755588, 14
+giannou maria, 6914441112, 23
+nikolaou marios, 6910001112, 15
+satratzemi maya, 6933333332, 20
+stavrou nikos, 6922222777, 20
+totsika dimitra, 6911555111, 14
+

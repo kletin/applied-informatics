@@ -1,0 +1,46 @@
+Question C
+Storage pool
+1o STOIXEIO LISTAS=-1, 1H FREE POSITION=0
+H STORAGE POOL EXEI TA EJHS STOIXEIA
+(0:<-1,-1.0> ->1) (1:<-1,-1.0> ->2) (2:<-1,-1.0> ->3) (3:<-1,-1.0> ->4) (4:<-1,-1.0> ->5) (5:<-1,-1.0> ->6) (6:<-1,-1.0> ->7) (7:<-1,-1.0> ->8) (8:<-1,-1.0> ->9) (9:<-1,-1.0> ->-1)
+Question D
+Linked list
+Empty List ...
+Question E
+DWSE AM GIA EISAGWGH STH LISTA: 3
+DWSE VATHMO GIA EISAGWGH STH LISTA: 10
+DWSE AM GIA EISAGWGH STH LISTA: 9
+DWSE VATHMO GIA EISAGWGH STH LISTA: 5
+DWSE AM GIA EISAGWGH STH LISTA: 1
+DWSE VATHMO GIA EISAGWGH STH LISTA: 8
+DWSE AM GIA EISAGWGH STH LISTA: 2
+DWSE VATHMO GIA EISAGWGH STH LISTA: 5
+DWSE AM GIA EISAGWGH STH LISTA: 7
+DWSE VATHMO GIA EISAGWGH STH LISTA: 5
+Question F
+Storage pool
+1o STOIXEIO LISTAS=4, 1H FREE POSITION=5
+H STORAGE POOL EXEI TA EJHS STOIXEIA
+(0:<3,10.0> ->-1) (1:<9,5.0> ->0) (2:<1,8.0> ->1) (3:<2,5.0> ->2) (4:<7,5.0> ->3) (5:<-1,-1.0> ->6) (6:<-1,-1.0> ->7) (7:<-1,-1.0> ->8) (8:<-1,-1.0> ->9) (9:<-1,-1.0> ->-1)
+Question G
+Linked list
+(4:<7,5.0> ->3) (3:<2,5.0> ->2) (2:<1,8.0> ->1) (1:<9,5.0> ->0) (0:<3,10.0> ->-1)
+Question H
+Not an Empty List
+Question I
+Not a Full List
+Question J
+Min value=5.0
+AM with min grade are: 9 2 7
+Question K
+
+plithos sto stack 0
+
+Question L
+Storage pool
+1o STOIXEIO LISTAS=4, 1H FREE POSITION=5
+H STORAGE POOL EXEI TA EJHS STOIXEIA
+(0:<3,10.0> ->-1) (1:<9,5.0> ->0) (2:<1,8.0> ->1) (3:<2,5.0> ->2) (4:<7,5.0> ->3) (5:<-1,-1.0> ->6) (6:<-1,-1.0> ->7) (7:<-1,-1.0> ->8) (8:<-1,-1.0> ->9) (9:<-1,-1.0> ->-1)
+Question M
+Linked list
+(4:<7,5.0> ->3) (3:<2,5.0> ->2) (2:<1,8.0> ->1) (1:<9,5.0> ->0) (0:<3,10.0> ->-1)
