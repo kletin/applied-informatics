@@ -1,0 +1,14 @@
+CITY: Thessaloniki, Greece
+AIRPORT: Macedonia (SKG)
+
+
+DESTINATION: munich
+
+
+DIRECT FLIGHT DETAILS
+[1]Flight operated by EasyJet, duration130minutes
+[2]Flight operated by Aegean, duration120minutes
+
+INDIRECT FLIGHTS through...
+[1]Athens , ATH airport 
+

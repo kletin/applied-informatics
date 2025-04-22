@@ -1,0 +1,2366 @@
+ ~/Doc/Kl/UO/Τ/Τ/SourceCode  ./build_and_run_all_M200_10TIMES.sh                                                                   ✔  03:00:42
+Modified file saved as 'bscp_generate200.c' with M = 200
+Compiling bcsp_generate200.c
+Generating M200_1.._10.txt
+running hill for M200_1.txt
+--- init ----
+-1 1 -1 -1 1 -1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000072 secs
+Number of restarts: 112563
+Number of steps: 368188
+
+
+running hill for M200_2.txt
+--- init ----
+-1 1 -1 1 -1 1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000023 secs
+Number of restarts: 110493
+Number of steps: 363290
+
+
+running hill for M200_3.txt
+--- init ----
+1 1 -1 1 1 1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000088 secs
+Number of restarts: 110366
+Number of steps: 354847
+
+
+running hill for M200_4.txt
+--- init ----
+1 -1 1 1 -1 1 -1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000078 secs
+Number of restarts: 110508
+Number of steps: 361458
+
+
+running hill for M200_5.txt
+--- init ----
+1 -1 1 1 1 -1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000055 secs
+Number of restarts: 112488
+Number of steps: 357169
+
+
+running hill for M200_6.txt
+--- init ----
+1 -1 1 1 -1 1 -1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000002 secs
+Number of restarts: 114820
+Number of steps: 354228
+
+
+running hill for M200_7.txt
+--- init ----
+1 1 1 -1 -1 -1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000063 secs
+Number of restarts: 104890
+Number of steps: 353104
+
+
+running hill for M200_8.txt
+--- init ----
+-1 1 1 1 1 -1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000055 secs
+Number of restarts: 106283
+Number of steps: 362843
+
+
+running hill for M200_9.txt
+--- init ----
+-1 -1 1 1 -1 -1 1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000069 secs
+Number of restarts: 107037
+Number of steps: 356565
+
+
+running hill for M200_10.txt
+--- init ----
+-1 1 -1 -1 1 -1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000065 secs
+Number of restarts: 103710
+Number of steps: 363261
+
+
+Modified file saved as 'bscp_generate190.c' with M = 190
+Compiling bcsp_generate190.c
+Generating M190_1.._10.txt
+running hill for M190_1.txt
+--- init ----
+-1 1 -1 -1 -1 -1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000072 secs
+Number of restarts: 120011
+Number of steps: 373233
+
+
+running hill for M190_2.txt
+--- init ----
+-1 -1 -1 -1 1 1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 105281
+Number of steps: 379007
+
+
+running hill for M190_3.txt
+--- init ----
+1 -1 -1 -1 -1 1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000025 secs
+Number of restarts: 120181
+Number of steps: 378170
+
+
+running hill for M190_4.txt
+--- init ----
+1 -1 -1 -1 1 1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000040 secs
+Number of restarts: 108556
+Number of steps: 395331
+
+
+running hill for M190_5.txt
+--- init ----
+1 1 -1 1 -1 1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 108549
+Number of steps: 380309
+
+
+running hill for M190_6.txt
+--- init ----
+1 1 -1 1 1 1 1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000008 secs
+Number of restarts: 116740
+Number of steps: 374862
+
+
+running hill for M190_7.txt
+--- init ----
+1 1 1 -1 -1 1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000006 secs
+Number of restarts: 112088
+Number of steps: 374830
+
+
+running hill for M190_8.txt
+--- init ----
+-1 -1 1 1 1 -1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 124764
+Number of steps: 377986
+
+
+running hill for M190_9.txt
+--- init ----
+-1 -1 -1 1 -1 1 -1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000000 secs
+Number of restarts: 110402
+Number of steps: 378954
+
+
+running hill for M190_10.txt
+--- init ----
+-1 -1 1 -1 1 -1 1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000044 secs
+Number of restarts: 121022
+Number of steps: 377280
+
+
+Modified file saved as 'bscp_generate180.c' with M = 180
+Compiling bcsp_generate180.c
+Generating M180_1.._10.txt
+running hill for M180_1.txt
+--- init ----
+-1 -1 1 1 -1 -1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000027 secs
+Number of restarts: 122393
+Number of steps: 405114
+
+
+running hill for M180_2.txt
+--- init ----
+-1 -1 -1 1 1 1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000048 secs
+Number of restarts: 125114
+Number of steps: 399257
+
+
+running hill for M180_3.txt
+--- init ----
+1 1 1 -1 -1 -1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000008 secs
+Number of restarts: 118694
+Number of steps: 403751
+
+
+running hill for M180_4.txt
+--- init ----
+1 1 1 1 -1 1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000025 secs
+Number of restarts: 119655
+Number of steps: 401393
+
+
+running hill for M180_5.txt
+--- init ----
+1 1 -1 1 1 -1 1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000027 secs
+Number of restarts: 124294
+Number of steps: 409782
+
+
+running hill for M180_6.txt
+--- init ----
+1 -1 -1 -1 -1 1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000069 secs
+Number of restarts: 125173
+Number of steps: 409182
+
+
+running hill for M180_7.txt
+--- init ----
+1 -1 -1 1 1 -1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 123962
+Number of steps: 403274
+
+
+running hill for M180_8.txt
+--- init ----
+-1 -1 1 1 -1 1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000055 secs
+Number of restarts: 119766
+Number of steps: 402175
+
+
+running hill for M180_9.txt
+--- init ----
+-1 1 -1 -1 -1 1 1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 120294
+Number of steps: 400726
+
+
+running hill for M180_10.txt
+--- init ----
+-1 -1 -1 -1 1 1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000032 secs
+Number of restarts: 121639
+Number of steps: 403748
+
+
+Modified file saved as 'bscp_generate170.c' with M = 170
+Compiling bcsp_generate170.c
+Generating M170_1.._10.txt
+running hill for M170_1.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000011 secs
+Number of restarts: 131118
+Number of steps: 431125
+
+
+running hill for M170_2.txt
+--- init ----
+1 -1 -1 -1 1 1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000065 secs
+Number of restarts: 135835
+Number of steps: 424493
+
+
+running hill for M170_3.txt
+--- init ----
+1 -1 1 1 -1 1 1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 134707
+Number of steps: 430941
+
+
+running hill for M170_4.txt
+--- init ----
+1 1 1 1 1 1 1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000025 secs
+Number of restarts: 124772
+Number of steps: 424914
+
+
+running hill for M170_5.txt
+--- init ----
+1 1 1 -1 -1 -1 1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000055 secs
+Number of restarts: 130819
+Number of steps: 425946
+
+
+running hill for M170_6.txt
+--- init ----
+1 1 -1 -1 1 -1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000036 secs
+Number of restarts: 130497
+Number of steps: 434855
+
+
+running hill for M170_7.txt
+--- init ----
+-1 -1 -1 -1 -1 -1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000048 secs
+Number of restarts: 124153
+Number of steps: 428858
+
+
+running hill for M170_8.txt
+--- init ----
+-1 -1 1 -1 1 -1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000040 secs
+Number of restarts: 128222
+Number of steps: 429214
+
+
+running hill for M170_9.txt
+--- init ----
+-1 -1 -1 -1 1 -1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 132117
+Number of steps: 433412
+
+
+running hill for M170_10.txt
+--- init ----
+-1 1 -1 1 -1 1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000044 secs
+Number of restarts: 130845
+Number of steps: 430043
+
+
+Modified file saved as 'bscp_generate160.c' with M = 160
+Compiling bcsp_generate160.c
+Generating M160_1.._10.txt
+running hill for M160_1.txt
+--- init ----
+1 -1 -1 -1 -1 1 1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000029 secs
+Number of restarts: 145909
+Number of steps: 456793
+
+
+running hill for M160_2.txt
+--- init ----
+1 -1 -1 -1 1 -1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 145570
+Number of steps: 466543
+
+
+running hill for M160_3.txt
+--- init ----
+1 1 -1 -1 -1 1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000036 secs
+Number of restarts: 138547
+Number of steps: 462680
+
+
+running hill for M160_4.txt
+--- init ----
+1 1 1 -1 1 -1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000038 secs
+Number of restarts: 143620
+Number of steps: 466798
+
+
+running hill for M160_5.txt
+--- init ----
+1 -1 1 -1 -1 1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000048 secs
+Number of restarts: 141265
+Number of steps: 459156
+
+
+running hill for M160_6.txt
+--- init ----
+-1 -1 1 1 1 -1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000032 secs
+Number of restarts: 144754
+Number of steps: 463200
+
+
+running hill for M160_7.txt
+--- init ----
+-1 -1 -1 -1 -1 1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 139437
+Number of steps: 458407
+
+
+running hill for M160_8.txt
+--- init ----
+-1 1 1 -1 1 -1 -1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000011 secs
+Number of restarts: 141756
+Number of steps: 458520
+
+
+running hill for M160_9.txt
+--- init ----
+-1 1 1 1 -1 1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000044 secs
+Number of restarts: 128807
+Number of steps: 464475
+
+
+running hill for M160_10.txt
+--- init ----
+-1 1 -1 1 1 -1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 131533
+Number of steps: 458754
+
+
+Modified file saved as 'bscp_generate150.c' with M = 150
+Compiling bcsp_generate150.c
+Generating M150_1.._10.txt
+running hill for M150_1.txt
+--- init ----
+1 -1 -1 1 -1 1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000040 secs
+Number of restarts: 157210
+Number of steps: 499972
+
+
+running hill for M150_2.txt
+--- init ----
+1 -1 -1 1 1 -1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000040 secs
+Number of restarts: 155778
+Number of steps: 498887
+
+
+running hill for M150_3.txt
+--- init ----
+1 1 1 1 -1 -1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000065 secs
+Number of restarts: 151880
+Number of steps: 499848
+
+
+running hill for M150_4.txt
+--- init ----
+1 -1 -1 1 -1 -1 1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000027 secs
+Number of restarts: 142711
+Number of steps: 505587
+
+
+running hill for M150_5.txt
+--- init ----
+1 -1 -1 1 1 -1 -1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000036 secs
+Number of restarts: 156068
+Number of steps: 492644
+
+
+running hill for M150_6.txt
+--- init ----
+-1 -1 1 1 -1 -1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000036 secs
+Number of restarts: 162083
+Number of steps: 491492
+
+
+running hill for M150_7.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false
+Time spent: 0.001205 secs
+Number of restarts: 5
+Number of steps: 20
+
+
+running hill for M150_8.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 156682
+Number of steps: 493109
+
+
+running hill for M150_9.txt
+--- init ----
+-1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000032 secs
+Number of restarts: 143470
+Number of steps: 495476
+
+
+running hill for M150_10.txt
+--- init ----
+-1 1 1 1 1 1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 158751
+Number of steps: 485941
+
+
+Modified file saved as 'bscp_generate140.c' with M = 140
+Compiling bcsp_generate140.c
+Generating M140_1.._10.txt
+running hill for M140_1.txt
+--- init ----
+-1 1 1 -1 -1 1 -1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000048 secs
+Number of restarts: 160915
+Number of steps: 533778
+
+
+running hill for M140_2.txt
+--- init ----
+1 1 1 -1 1 1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000002 secs
+Number of restarts: 174644
+Number of steps: 540641
+
+
+running hill for M140_3.txt
+--- init ----
+1 1 1 1 -1 1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000017 secs
+Number of restarts: 161587
+Number of steps: 536984
+
+
+running hill for M140_4.txt
+--- init ----
+1 1 1 -1 1 -1 1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000034 secs
+Number of restarts: 165980
+Number of steps: 531449
+
+
+running hill for M140_5.txt
+--- init ----
+1 1 -1 1 -1 1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000044 secs
+Number of restarts: 164216
+Number of steps: 541738
+
+
+running hill for M140_6.txt
+--- init ----
+-1 -1 -1 1 1 -1 1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000036 secs
+Number of restarts: 172999
+Number of steps: 541168
+
+
+running hill for M140_7.txt
+--- init ----
+-1 -1 1 -1 -1 1 -1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 167792
+Number of steps: 548596
+
+
+running hill for M140_8.txt
+--- init ----
+-1 1 -1 -1 1 -1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 180927
+Number of steps: 545256
+
+
+running hill for M140_9.txt
+--- init ----
+-1 1 -1 -1 -1 1 -1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 168323
+Number of steps: 532731
+
+
+running hill for M140_10.txt
+--- init ----
+-1 1 -1 -1 1 -1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000032 secs
+Number of restarts: 166137
+Number of steps: 535857
+
+
+Modified file saved as 'bscp_generate130.c' with M = 130
+Compiling bcsp_generate130.c
+Generating M130_1.._10.txt
+running hill for M130_1.txt
+--- init ----
+1 -1 1 -1 -1 1 -1 1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true
+Time spent: 0.003500 secs
+Number of restarts: 5
+Number of steps: 22
+
+
+running hill for M130_2.txt
+--- init ----
+1 -1 1 -1 -1 1 -1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000004 secs
+Number of restarts: 178549
+Number of steps: 591278
+
+
+running hill for M130_3.txt
+--- init ----
+1 -1 1 1 1 -1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000017 secs
+Number of restarts: 184101
+Number of steps: 602540
+
+
+running hill for M130_4.txt
+--- init ----
+1 -1 -1 -1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false
+Time spent: 0.000562 secs
+Number of restarts: 3
+Number of steps: 10
+
+
+running hill for M130_5.txt
+--- init ----
+1 -1 -1 -1 -1 1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000048 secs
+Number of restarts: 182052
+Number of steps: 589086
+
+
+running hill for M130_6.txt
+--- init ----
+1 1 1 -1 1 -1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000051 secs
+Number of restarts: 186400
+Number of steps: 584664
+
+
+running hill for M130_7.txt
+--- init ----
+1 1 1 1 -1 1 1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 192890
+Number of steps: 594100
+
+
+running hill for M130_8.txt
+--- init ----
+-1 1 1 1 1 1 -1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000046 secs
+Number of restarts: 189492
+Number of steps: 584938
+
+
+running hill for M130_9.txt
+--- init ----
+-1 1 1 -1 -1 1 -1 -1 -1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000977 secs
+Number of restarts: 4
+Number of steps: 18
+
+
+running hill for M130_10.txt
+--- init ----
+-1 1 1 -1 -1 1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000044 secs
+Number of restarts: 179722
+Number of steps: 576205
+
+
+Modified file saved as 'bscp_generate120.c' with M = 120
+Compiling bcsp_generate120.c
+Generating M120_1.._10.txt
+running hill for M120_1.txt
+--- init ----
+-1 1 1 1 1 1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000004 secs
+Number of restarts: 205606
+Number of steps: 634524
+
+
+running hill for M120_2.txt
+--- init ----
+-1 -1 -1 -1 -1 1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000032 secs
+Number of restarts: 206593
+Number of steps: 645728
+
+
+running hill for M120_3.txt
+--- init ----
+1 1 -1 1 1 -1 1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 198045
+Number of steps: 652282
+
+
+running hill for M120_4.txt
+--- init ----
+1 1 -1 1 -1 -1 -1 -1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000029 secs
+Number of restarts: 219474
+Number of steps: 638890
+
+
+running hill for M120_5.txt
+--- init ----
+1 -1 1 1 1 -1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000955 secs
+Number of restarts: 4
+Number of steps: 19
+
+
+running hill for M120_6.txt
+--- init ----
+1 -1 1 1 1 -1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000025 secs
+Number of restarts: 222302
+Number of steps: 635493
+
+
+running hill for M120_7.txt
+--- init ----
+1 -1 -1 1 -1 -1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 204935
+Number of steps: 655333
+
+
+running hill for M120_8.txt
+--- init ----
+1 -1 -1 1 1 -1 1 1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000002 secs
+Number of restarts: 219228
+Number of steps: 623862
+
+
+running hill for M120_9.txt
+--- init ----
+-1 1 1 1 -1 -1 1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000442 secs
+Number of restarts: 2
+Number of steps: 8
+
+
+running hill for M120_10.txt
+--- init ----
+-1 1 1 1 -1 -1 1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.000726 secs
+Number of restarts: 4
+Number of steps: 14
+
+
+Modified file saved as 'bscp_generate110.c' with M = 110
+Compiling bcsp_generate110.c
+Generating M110_1.._10.txt
+running hill for M110_1.txt
+--- init ----
+-1 -1 1 -1 -1 -1 -1 -1 -1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000420 secs
+Number of restarts: 0
+Number of steps: 6
+
+
+running hill for M110_2.txt
+--- init ----
+-1 -1 1 -1 -1 -1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000015 secs
+Number of restarts: 229372
+Number of steps: 701672
+
+
+running hill for M110_3.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.004906 secs
+Number of restarts: 39
+Number of steps: 112
+
+
+running hill for M110_4.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000031 secs
+Number of restarts: 223331
+Number of steps: 713529
+
+
+running hill for M110_5.txt
+--- init ----
+-1 -1 -1 1 -1 -1 -1 1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000040 secs
+Number of restarts: 229892
+Number of steps: 700167
+
+
+running hill for M110_6.txt
+--- init ----
+-1 1 1 1 1 1 -1 1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000029 secs
+Number of restarts: 237990
+Number of steps: 717534
+
+
+running hill for M110_7.txt
+--- init ----
+1 1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false
+Time spent: 0.000703 secs
+Number of restarts: 4
+Number of steps: 16
+
+
+running hill for M110_8.txt
+--- init ----
+1 1 1 1 -1 -1 -1 1 1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000011 secs
+Number of restarts: 236632
+Number of steps: 693981
+
+
+running hill for M110_9.txt
+--- init ----
+1 -1 1 1 1 1 -1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000027 secs
+Number of restarts: 234536
+Number of steps: 714368
+
+
+running hill for M110_10.txt
+--- init ----
+1 -1 -1 1 -1 -1 -1 -1 -1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.001086 secs
+Number of restarts: 8
+Number of steps: 24
+
+
+Modified file saved as 'bscp_generate100.c' with M = 100
+Compiling bcsp_generate100.c
+Generating M100_1.._10.txt
+running hill for M100_1.txt
+--- init ----
+1 -1 -1 1 -1 -1 -1 -1 -1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true
+Time spent: 0.000247 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M100_2.txt
+--- init ----
+1 -1 -1 1 -1 -1 -1 -1 -1 -1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000008 secs
+Number of restarts: 259616
+Number of steps: 778352
+
+
+running hill for M100_3.txt
+--- init ----
+1 -1 1 -1 1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000745 secs
+Number of restarts: 5
+Number of steps: 18
+
+
+running hill for M100_4.txt
+--- init ----
+1 -1 1 -1 1 1 1 -1 1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000019 secs
+Number of restarts: 254235
+Number of steps: 799709
+
+
+running hill for M100_5.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.000174 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+running hill for M100_6.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.000094 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M100_7.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true
+Time spent: 0.000140 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M100_8.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false
+Time spent: 0.000391 secs
+Number of restarts: 3
+Number of steps: 9
+
+
+running hill for M100_9.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true
+Time spent: 0.001188 secs
+Number of restarts: 8
+Number of steps: 30
+
+
+running hill for M100_10.txt
+--- init ----
+1 1 1 1 1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.001157 secs
+Number of restarts: 9
+Number of steps: 29
+
+
+Modified file saved as 'bscp_generate90.c' with M = 90
+Compiling bcsp_generate90.c
+Generating M90_1.._10.txt
+running hill for M90_1.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.001792 secs
+Number of restarts: 3
+Number of steps: 14
+
+
+running hill for M90_2.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true
+Time spent: 0.000050 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M90_3.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true
+Time spent: 0.000933 secs
+Number of restarts: 2
+Number of steps: 10
+
+
+running hill for M90_4.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false
+Time spent: 0.000480 secs
+Number of restarts: 1
+Number of steps: 4
+
+
+running hill for M90_5.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false
+Time spent: 0.000345 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M90_6.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true
+Time spent: 0.000878 secs
+Number of restarts: 2
+Number of steps: 8
+
+
+running hill for M90_7.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.000208 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M90_8.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000295 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M90_9.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true
+Time spent: 0.000652 secs
+Number of restarts: 2
+Number of steps: 8
+
+
+running hill for M90_10.txt
+--- init ----
+1 -1 -1 1 -1 1 1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000011 secs
+Number of restarts: 304793
+Number of steps: 894914
+
+
+Modified file saved as 'bscp_generate80.c' with M = 80
+Compiling bcsp_generate80.c
+Generating M80_1.._10.txt
+running hill for M80_1.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.000645 secs
+Number of restarts: 2
+Number of steps: 8
+
+
+running hill for M80_2.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true
+Time spent: 0.000264 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M80_3.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false
+Time spent: 0.000474 secs
+Number of restarts: 1
+Number of steps: 6
+
+
+running hill for M80_4.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.000591 secs
+Number of restarts: 2
+Number of steps: 6
+
+
+running hill for M80_5.txt
+--- init ----
+-1 -1 -1 1 1 1 -1 -1 -1 1
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30.000006 secs
+Number of restarts: 386285
+Number of steps: 997515
+
+
+running hill for M80_6.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000085 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M80_7.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true
+Time spent: 0.000269 secs
+Number of restarts: 2
+Number of steps: 8
+
+
+running hill for M80_8.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true
+Time spent: 0.000305 secs
+Number of restarts: 3
+Number of steps: 9
+
+
+running hill for M80_9.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000154 secs
+Number of restarts: 1
+Number of steps: 4
+
+
+running hill for M80_10.txt
+--- init ----
+-1 -1 1 1 -1 1 1 -1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true
+Time spent: 0.000178 secs
+Number of restarts: 1
+Number of steps: 5
+
+
+Modified file saved as 'bscp_generate70.c' with M = 70
+Compiling bcsp_generate70.c
+Generating M70_1.._10.txt
+running hill for M70_1.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000198 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M70_2.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000329 secs
+Number of restarts: 2
+Number of steps: 7
+
+
+running hill for M70_3.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true
+Time spent: 0.000125 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M70_4.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true
+Time spent: 0.000353 secs
+Number of restarts: 1
+Number of steps: 7
+
+
+running hill for M70_5.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000687 secs
+Number of restarts: 3
+Number of steps: 10
+
+
+running hill for M70_6.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true
+Time spent: 0.000629 secs
+Number of restarts: 3
+Number of steps: 9
+
+
+running hill for M70_7.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false
+Time spent: 0.000369 secs
+Number of restarts: 1
+Number of steps: 7
+
+
+running hill for M70_8.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000579 secs
+Number of restarts: 3
+Number of steps: 10
+
+
+running hill for M70_9.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000143 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M70_10.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000081 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Modified file saved as 'bscp_generate60.c' with M = 60
+Compiling bcsp_generate60.c
+Generating M60_1.._10.txt
+running hill for M60_1.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000039 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M60_2.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000059 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M60_3.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true
+Time spent: 0.000108 secs
+Number of restarts: 1
+Number of steps: 4
+
+
+running hill for M60_4.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000064 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M60_5.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000084 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M60_6.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000467 secs
+Number of restarts: 6
+Number of steps: 20
+
+
+running hill for M60_7.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000159 secs
+Number of restarts: 2
+Number of steps: 6
+
+
+running hill for M60_8.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false
+Time spent: 0.000134 secs
+Number of restarts: 1
+Number of steps: 5
+
+
+running hill for M60_9.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000039 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M60_10.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true
+Time spent: 0.000134 secs
+Number of restarts: 1
+Number of steps: 5
+
+
+Modified file saved as 'bscp_generate50.c' with M = 50
+Compiling bcsp_generate50.c
+Generating M50_1.._10.txt
+running hill for M50_1.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000039 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M50_2.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000039 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M50_3.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true
+Time spent: 0.000107 secs
+Number of restarts: 1
+Number of steps: 4
+
+
+running hill for M50_4.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000061 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M50_5.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.000129 secs
+Number of restarts: 1
+Number of steps: 5
+
+
+running hill for M50_6.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000093 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M50_7.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.000140 secs
+Number of restarts: 1
+Number of steps: 5
+
+
+running hill for M50_8.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000040 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M50_9.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true
+Time spent: 0.000066 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M50_10.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000063 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+Modified file saved as 'bscp_generate40.c' with M = 40
+Compiling bcsp_generate40.c
+Generating M40_1.._10.txt
+running hill for M40_1.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true
+Time spent: 0.000032 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M40_2.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000033 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M40_3.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000051 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M40_4.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true
+Time spent: 0.000046 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M40_5.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000031 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M40_6.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true
+Time spent: 0.000085 secs
+Number of restarts: 1
+Number of steps: 4
+
+
+running hill for M40_7.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true
+Time spent: 0.000061 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+running hill for M40_8.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000052 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M40_9.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false
+Time spent: 0.000035 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M40_10.txt
+--- init ----
+-1 1 -1 1 -1 1 1 -1 1 1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true
+Time spent: 0.000010 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+Modified file saved as 'bscp_generate30.c' with M = 30
+Compiling bcsp_generate30.c
+Generating M30_1.._10.txt
+running hill for M30_1.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false
+Time spent: 0.000037 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M30_2.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000025 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_3.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000024 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_4.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000023 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_5.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000008 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M30_6.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000038 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M30_7.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000025 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_8.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000023 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_9.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000025 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M30_10.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000024 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Modified file saved as 'bscp_generate20.c' with M = 20
+Compiling bcsp_generate20.c
+Generating M20_1.._10.txt
+running hill for M20_1.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000029 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M20_2.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000009 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M20_3.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000017 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M20_4.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000018 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M20_5.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000020 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M20_6.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000018 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M20_7.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000008 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M20_8.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000019 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M20_9.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000028 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+running hill for M20_10.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000019 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Modified file saved as 'bscp_generate10.c' with M = 10
+Compiling bcsp_generate10.c
+Generating M10_1.._10.txt
+running hill for M10_1.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false
+Time spent: 0.000015 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M10_2.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000015 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M10_3.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000009 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M10_4.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000009 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M10_5.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000014 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M10_6.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000007 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M10_7.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000007 secs
+Number of restarts: 0
+Number of steps: 0
+
+
+running hill for M10_8.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000013 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M10_9.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000012 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+running hill for M10_10.txt
+--- init ----
+-1 -1 1 1 -1 -1 -1 1 1 -1
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false
+Time spent: 0.000007 secs
+Number of restarts: 0
+Number of steps: 0

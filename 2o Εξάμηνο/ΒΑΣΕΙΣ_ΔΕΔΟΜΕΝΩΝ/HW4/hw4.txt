@@ -1,0 +1,251 @@
+
+
+-- AIC202
+-- 2022-2023
+-- ICS23088
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 1
+-------------------------------------------------------------------------------
+
+select
+    aircraft_code
+from
+    flights.aircrafts_data
+where
+    aircraft_code not in (
+    select
+        aircraft_code
+    from
+        flights.flights
+);
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 2
+-------------------------------------------------------------------------------
+
+select
+    b.book_ref,
+    b.total_amount,
+    COUNT(t.ticket_no) as πλήθος_εισιτηρίων
+from
+    flights.bookings b
+join flights.tickets t on
+    b.book_ref = t.book_ref
+group by
+    b.book_ref,
+    b.total_amount
+having
+    b.total_amount > 1000000
+    and COUNT(t.ticket_no) >= 4;
+
+
+-------------------------------------------------------------------------------
+-- AITHMA 3
+-------------------------------------------------------------------------------
+
+select
+    t.passenger_name,
+    b.book_date
+from
+    flights.tickets t
+join flights.bookings b on
+    t.book_ref = b.book_ref
+order by
+    b.book_date desc
+limit 10;
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 4
+-------------------------------------------------------------------------------
+
+select
+    distinct ad.model->>'en' as model
+from
+    aircrafts_data ad
+inner join flights f on
+    ad.aircraft_code = f.aircraft_code
+inner join airports_data dep on
+    f.departure_airport = dep.airport_code
+inner join airports_data arr on
+    f.arrival_airport = arr.airport_code
+where
+    (dep.city->>'en' = 'St. Petersburg'
+        or arr.city->>'en' = 'St. Petersburg')
+    and f.status = 'Cancelled';
+
+
+
+select
+    distinct ad.model->>'en' as model
+from
+    aircrafts_data ad
+inner join flights_v fv on
+    ad.aircraft_code = fv.aircraft_code
+where
+    (fv.departure_city= 'St. Petersburg'
+        or fv.arrival_city = 'St. Petersburg')
+    and fv.status = 'Cancelled';
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 5
+-------------------------------------------------------------------------------
+
+select
+    t.passenger_name
+from
+    Tickets t
+join ticket_flights tf on
+    t.ticket_no = tf.ticket_no
+join flights_v fv on
+    tf.flight_id = fv.flight_id
+where
+    tf.fare_conditions = 'Business'
+group by
+    t.passenger_name
+having
+    COUNT(distinct fv.arrival_city) = 1
+    and MAX(fv.arrival_city) = 'Kursk';
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 6
+-------------------------------------------------------------------------------
+
+select
+    a.aircraft_code,
+    a.model,
+    COUNT(f.flight_id) as πλήθος
+from
+    aircrafts a
+left join flights f on
+    a.aircraft_code = f.aircraft_code
+group by
+    a.aircraft_code,
+    a.model
+order by
+    COUNT(f.flight_id) asc;
+
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 7
+-------------------------------------------------------------------------------
+
+select
+    t.ticket_no,
+    tf.flight_id,
+    t.book_ref,
+    b.book_date,
+    b.total_amount,
+    t.passenger_id,
+    t.passenger_name,
+    t.contact_data,
+    tf.fare_conditions,
+    tf.amount,
+    case
+        when f.status = 'Arrived' then bp.boarding_no
+        else null
+    end as boarding_no,
+    case
+        when f.status = 'Arrived' then bp.seat_no
+        else null
+    end as seat_no
+from
+    tickets t
+join bookings b on
+    t.book_ref = b.book_ref
+join ticket_flights tf on
+    t.ticket_no = tf.ticket_no
+join boarding_passes bp on
+    tf.ticket_no = bp.ticket_no
+join flights f on
+    tf.flight_id = f.flight_id
+where
+    t.book_ref = '070133';
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 8  - Something is missing with not including return flights
+-------------------------------------------------------------------------------
+
+select
+    f1.departure_airport,
+    f1.arrival_airport,
+    a1.city as departure_city,
+    a2.city as arrival_city,
+    COUNT(*) as swarm
+from
+    flights f1
+join airports a1 on
+    f1.departure_airport = a1.airport_code
+join airports a2 on
+    f1.arrival_airport = a2.airport_code
+where
+    cast(SUBSTRING(f1.flight_no, 3, 10) as int) % 2 = 0
+group by
+    f1.departure_airport,
+    f1.arrival_airport,
+    a1.city,
+    a2.city
+having
+    COUNT(*) > 2
+order by
+    f1.departure_airport;
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 9  - different output rows ?
+-------------------------------------------------------------------------------
+
+select
+    a.aircraft_code
+from
+    aircrafts a
+where
+    not exists (
+    select
+        1
+    from
+        airports ap
+    where
+        ap.airport_code like 'Y%'
+        and not exists (
+        select
+            1
+        from
+            flights f
+        where
+            f.aircraft_code = a.aircraft_code
+            and f.arrival_airport = ap.airport_code
+    )
+);
+
+
+-------------------------------------------------------------------------------
+-- ΑΙΤΗΜΑ 10
+-------------------------------------------------------------------------------
+
+select
+    departure_airport_name
+from
+    (
+    select
+        a.airport_name as departure_airport_name,
+        COUNT(*) as departure_flights
+    from
+        airports a
+    join flights f on
+        f.departure_airport = a.airport_code
+    where
+        f.scheduled_departure > '2017-07-31'
+    group by
+        a.airport_name
+    order by
+        departure_flights desc
+) as foo
+limit 1;
